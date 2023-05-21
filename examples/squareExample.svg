@@ -1,7 +1,7 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="400px" height="400px">
-
-<rect x="200" y="200" height="100%" width="100%" fill="yellow">
-
-<text x="200" y="200" font-size="60" text-anchor="middle" fill="blue">123</text>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="500px" height="500px">
+    
+<rect x="100" y="100" width="350" height="350" fill="green"/>
+    
+<text x="275" y="275" font-size="60" text-anchor="middle" fill="red">DAN</text>
 
 </svg>
